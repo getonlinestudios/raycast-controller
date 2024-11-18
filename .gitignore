@@ -5,6 +5,7 @@
 
 # Custom
 .idea/
+.DS_Store
 # End Custom
 
 /[Ll]ibrary/
