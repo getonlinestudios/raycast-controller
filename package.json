@@ -2,5 +2,8 @@
   "name": "com.getonlinestudios.raycast-controller-2d",
   "version": "1.0.0",
   "displayName": "Raycast Controller 2D",
-  "description": "A RaycastController from Sebastian Lague's Tutorial"
+  "description": "A RaycastController from Sebastian Lague's Tutorial",
+  "author": {
+   "name" : "Kevin Mudiandambo"
+  }
 }
